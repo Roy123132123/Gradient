@@ -1,0 +1,8 @@
+body{
+    width: 99vw;
+    height: 99vh;
+    background-image: linear-gradient(to top left, red , orange,yellow);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 100% 100%;
+}
