@@ -1,8 +1,31 @@
 body{
-    width: 99vw;
-    height: 99vh;
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.Linear{
+    
     background-image: linear-gradient(to top left, red , orange,yellow);
     background-repeat: no-repeat;
     background-size: contain;
-    background-size: 100% 100%;
+    height: 17vw;
+    width: 100vw;
+}
+.Radial{
+    background-image: radial-gradient(circle, red, yellow, green);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 17vw;
+    width: 100vw;
+
+}
+.Conic{
+    background-image: conic-gradient(red, yellow, green);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 15vw;
+    width: 100vw;
 }
