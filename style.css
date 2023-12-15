@@ -11,14 +11,14 @@ body{
     background-image: linear-gradient(to top left, red , orange,yellow);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 17vw;
+    height: 18.2vw;
     width: 100vw;
 }
 .Radial{
     background-image: radial-gradient(circle, red, yellow, green);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 17vw;
+    height: 18.55vw;
     width: 100vw;
 
 }
@@ -26,6 +26,6 @@ body{
     background-image: conic-gradient(red, yellow, green);
     background-repeat: no-repeat;
     background-size: contain;
-    height: 15vw;
+    height: 18.2vw;
     width: 100vw;
 }
